@@ -1,0 +1,9 @@
+.bottom-center {
+    position: fixed;
+    bottom: 2rem; /* adjust as needed */
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    border-radius: 5rem;
+    padding: 0rem
+  }
